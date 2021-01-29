@@ -1,0 +1,14 @@
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Controle\Controle\bin\Debug\Controle.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Controle\Controle\bin\Debug\Controle.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Controle\Controle\obj\Debug\Controle.csprojAssemblyReference.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Controle\Controle\obj\Debug\Controle.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Controle\Controle\obj\Debug\Controle.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Controle\Controle\obj\Debug\Controle.csprojAssemblyReference.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Controle\Controle\obj\Debug\Controle.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Controle\Controle\obj\Debug\Controle.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Controle\Controle\bin\Debug\Controle.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Controle\Controle\bin\Debug\Controle.pdb

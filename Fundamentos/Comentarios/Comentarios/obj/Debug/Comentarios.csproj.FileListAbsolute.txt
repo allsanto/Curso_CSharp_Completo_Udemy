@@ -1,0 +1,7 @@
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Inicial\Comentarios\Comentarios\Comentarios\bin\Debug\Comentarios.exe.config
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Inicial\Comentarios\Comentarios\Comentarios\bin\Debug\Comentarios.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Inicial\Comentarios\Comentarios\Comentarios\bin\Debug\Comentarios.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Inicial\Comentarios\Comentarios\Comentarios\obj\Debug\Comentarios.csprojAssemblyReference.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Inicial\Comentarios\Comentarios\Comentarios\obj\Debug\Comentarios.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Inicial\Comentarios\Comentarios\Comentarios\obj\Debug\Comentarios.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Inicial\Comentarios\Comentarios\Comentarios\obj\Debug\Comentarios.pdb

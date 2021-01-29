@@ -1,0 +1,7 @@
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe.config
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\InverterNomes\InverterNomes\bin\Debug\InverterNomes.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csprojAssemblyReference.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.pdb

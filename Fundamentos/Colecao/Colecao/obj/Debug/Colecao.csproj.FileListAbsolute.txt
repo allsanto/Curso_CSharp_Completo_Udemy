@@ -1,0 +1,14 @@
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Colecao\Colecao\bin\Debug\Colecao.exe.config
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Colecao\Colecao\bin\Debug\Colecao.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Colecao\Colecao\bin\Debug\Colecao.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Colecao\Colecao\obj\Debug\Colecao.csprojAssemblyReference.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Colecao\Colecao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Colecao\Colecao\obj\Debug\Colecao.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\Colecao\Colecao\obj\Debug\Colecao.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Colecao\Colecao\bin\Debug\Colecao.exe.config
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Colecao\Colecao\bin\Debug\Colecao.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Colecao\Colecao\bin\Debug\Colecao.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Colecao\Colecao\obj\Debug\Colecao.csprojAssemblyReference.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Colecao\Colecao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Colecao\Colecao\obj\Debug\Colecao.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Colecao\Colecao\obj\Debug\Colecao.pdb

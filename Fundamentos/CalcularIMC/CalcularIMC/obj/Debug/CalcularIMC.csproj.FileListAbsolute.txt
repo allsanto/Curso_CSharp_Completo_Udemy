@@ -1,0 +1,14 @@
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csprojAssemblyReference.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\PrimeiroProjeto\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csprojAssemblyReference.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb

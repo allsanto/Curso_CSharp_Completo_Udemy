@@ -1,0 +1,7 @@
+C:\Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

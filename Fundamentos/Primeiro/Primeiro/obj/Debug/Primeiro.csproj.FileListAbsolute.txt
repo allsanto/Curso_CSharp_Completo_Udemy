@@ -1,0 +1,9 @@
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Primeiro\Primeiro\bin\Debug\Primeiro.exe.config
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Primeiro\Primeiro\bin\Debug\Primeiro.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Primeiro\Primeiro\bin\Debug\Primeiro.pdb
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Primeiro\Primeiro\obj\Debug\Primeiro.Form1.resources
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Primeiro\Primeiro\obj\Debug\Primeiro.Properties.Resources.resources
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.GenerateResource.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Primeiro\Primeiro\obj\Debug\Primeiro.exe
+C:\Users\Allan\Google Drive\Cursos e Projetos\16 - Curso_Udemy_C#.Net\Fundamentos\Primeiro\Primeiro\obj\Debug\Primeiro.pdb
